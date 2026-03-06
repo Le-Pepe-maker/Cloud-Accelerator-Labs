@@ -26,9 +26,3 @@ In this task, I created user accounts and security groups in a Windows environme
 - Successfully implemented user management and folder access restrictions using Windows administrative tools.  
 - Demonstrated understanding of Active Directory concepts and NTFS permission settings.
 
-<!-- Example for including screenshots -->
-![Marketing Group Setup](Task1Screenshots/marketing.png)
-*Screenshot showing Marketing user added to Marketing Group.*
-
-![Folder Permissions](Task1Screenshots/finance_permissions.png)
-*Screenshot showing NTFS permissions applied to Finance folder.*
